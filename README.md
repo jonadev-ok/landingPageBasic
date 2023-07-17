@@ -21,11 +21,12 @@ En este proyecto, no solo quiero enfocarme en escribir código y que puedan ver 
    - Descripción: CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para controlar la apariencia y el formato de las páginas web.
 
 3. **Git**
-   - Descripción: Git es un sistema de control de versiones distribuido ampliamente utilizado para rastrear y administrar los cambios en el código fuente de un proyecto.
+   - Descripción: Git es un sistema de control de versiones distribuido ampliamente utilizado para rastrear y administrar los cambios en el código fuente de un proyecto. Si no tienen instalado git en su equipo aqui les dejo una guia que los ayudara con su instalación y configuración: [Guía_ Instalación y configuración de Git.pdf](https://github.com/jonadev-ok/landingPageBasic/files/12065583/Guia_.Instalacion.y.configuracion.de.Git.pdf)
 
 4. **GitHub**
    - Descripción: GitHub es una plataforma en línea para alojar, gestionar y colaborar en proyectos de desarrollo de software utilizando Git.
 
 5. **Vercel**
-   - Descripción: Vercel es una plataforma de implementación y alojamiento para aplicaciones web y sitios estáticos, que permite desplegar proyectos de manera rápida y sencilla.
+   - Descripción: Vercel es una plataforma de implementación y alojamiento para aplicaciones web y sitios estáticos, que permite desplegar proyectos de manera rápida y sencilla. Para crear una cuenta en vercel ingresa al siguiente link: [crea tu cuenta en vercel](https://vercel.com/signup). Recomiendo registrarse utilizando su cuenta de GitHub, ya que facilitará el despliegue del proyecto.
+
 
