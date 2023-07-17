@@ -31,3 +31,27 @@ En este proyecto, no solo quiero enfocarme en escribir código y que puedan ver 
 
 
 <h1 align='center'>Ahora si: Comencemos!!!</h1>
+<p align="center">
+Si estás viendo esto, seguramente ya has hecho un "fork" del repositorio del proyecto en tu cuenta de GitHub. Lo siguiente que debes hacer para comenzar a trabajar es clonar el repositorio de tu cuenta de GitHub en tu computadora. A continuación, te proporciono los pasos que debes seguir para hacerlo:
+</p>
+1. Abre Git Bash
+
+2.Navega hasta la ubicación donde deseas almacenar el repositorio clonado en tu computadora.
+
+![WhatsApp Image 2023-07-17 at 12 10 39](https://github.com/jonadev-ok/landingPageBasic/assets/139663304/83c3d1f5-524b-4800-bf24-dbea8e6e6faf)
+
+3.Copia la URL del repositorio clonado de tu cuenta de GitHub.
+
+4.En la terminal, escribe el siguiente comando y reemplaza <URL> con la URL que copiaste en el paso anterior:
+
+![WhatsApp Image 2023-07-17 at 12 11 12](https://github.com/jonadev-ok/landingPageBasic/assets/139663304/a74b677a-505b-4166-b4d1-3df331b0f555)
+
+Por ejemplo:
+
+![WhatsApp Image 2023-07-17 at 12 11 45](https://github.com/jonadev-ok/landingPageBasic/assets/139663304/bcfdde73-b567-4052-9654-5de881a4bfba)
+
+5.Presiona Enter para ejecutar el comando. Git comenzará a clonar el repositorio en tu computadora.
+
+6.Una vez que se haya completado la clonación, tendrás una copia local del repositorio en tu directorio de trabajo.
+
+<h2>Ahora estás listo para comenzar a trabajar con el repositorio clonado en tu computadora!!!</h2>
