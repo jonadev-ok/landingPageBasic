@@ -44,11 +44,11 @@ cd ruta/del/directorio
 
 4.En la terminal, escribe el siguiente comando y reemplaza <URL> con la URL que copiaste en el paso anterior:
 
-git clone < URL >
+<p>git clone URL</p> 
 
 Por ejemplo:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+<p>git clone https://github.com/tu-usuario/tu-repositorio.git</p>
 
 5.Presiona Enter para ejecutar el comando. Git comenzará a clonar el repositorio en tu computadora.
 
